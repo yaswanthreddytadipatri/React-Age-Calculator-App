@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Age-Calulator-App/static/css/main.e81f0973.css",
-    "main.js": "/React-Age-Calulator-App/static/js/main.f7ae9399.js",
-    "static/js/787.04baedd0.chunk.js": "/React-Age-Calulator-App/static/js/787.04baedd0.chunk.js",
-    "index.html": "/React-Age-Calulator-App/index.html",
-    "main.e81f0973.css.map": "/React-Age-Calulator-App/static/css/main.e81f0973.css.map",
-    "main.f7ae9399.js.map": "/React-Age-Calulator-App/static/js/main.f7ae9399.js.map",
-    "787.04baedd0.chunk.js.map": "/React-Age-Calulator-App/static/js/787.04baedd0.chunk.js.map"
+    "main.css": "/React-Age-Calculator-App/static/css/main.e81f0973.css",
+    "main.js": "/React-Age-Calculator-App/static/js/main.f1ec7b16.js",
+    "static/js/787.04baedd0.chunk.js": "/React-Age-Calculator-App/static/js/787.04baedd0.chunk.js",
+    "index.html": "/React-Age-Calculator-App/index.html",
+    "main.e81f0973.css.map": "/React-Age-Calculator-App/static/css/main.e81f0973.css.map",
+    "main.f1ec7b16.js.map": "/React-Age-Calculator-App/static/js/main.f1ec7b16.js.map",
+    "787.04baedd0.chunk.js.map": "/React-Age-Calculator-App/static/js/787.04baedd0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e81f0973.css",
-    "static/js/main.f7ae9399.js"
+    "static/js/main.f1ec7b16.js"
   ]
 }
